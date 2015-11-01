@@ -1,10 +1,11 @@
 rpmforge
-====
+========
 
-Install the RPMForge RPM and GPG key on RHEL 5/6/7 or CentOS 5/6/7.
+Install the RPMForge RPM and GPG key on RHEL 4/5/6/7 or CentOS 4/5/6/7.
 
 This automatically enables the repo.
 Set disable: True in the pillar for installation only.
+
 
 .. note::
 
