@@ -1,0 +1,3 @@
+rpmforge:
+  # Disable the repo
+  disabled: false
