@@ -1,4 +1,4 @@
-epel
+rpmforge
 ====
 
 Install the RPMForge RPM and GPG key on RHEL 5/6/7 or CentOS 5/6/7.
